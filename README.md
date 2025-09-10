@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Imran</h1>
-<h3 align="center">🚀 Aspiring Software Developer | MERN Stack Learner | Open Source Enthusiast | Founder of GSC</h3>
+<h1 align="center">السلام عليكم ورحمة الله وبركاته</h1>
+<h3 align="center">Hi 👋, I'm Imran</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/gscubess">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Founder+of+GSC;Freelancer+%7C+WordPress+Developer;Frontend+Developer+%7C+React+Learner;Islamic+Content+Creator;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 📖 Islamic Quote
+> *"Indeed, with hardship comes ease."*  
+> *(Qur’an 94:6)*  
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **MERN stack projects**  
-- 🌱 I’m learning **DSA and Backend Development**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, Node.js**  
-- 📫 Reach me at: **youremail@example.com**  
+- 🔭 I’m currently working on **15+ freelance projects worldwide**  
+- 🌱 Learning **MERN Stack & Advanced DSA**  
+- 👯 Collaborating with startups & NGOs for **Web Development**  
+- 💬 Ask me about **WordPress, React, Node.js, Tailwind CSS**  
+- 📫 Reach me at: **gscubess@gmail.com**  
+- 🏆 Achievements:  
+  - Built **50+ WordPress websites** for clients  
+  - Completed **10+ MERN stack projects**  
+  - **500+ GitHub contributions** (private + public)  
+  - Trained **students in frontend basics**  
 - ⚡ Fun fact: *Code + Tea = Perfect Night* 😄  
 
 ---
@@ -34,6 +52,7 @@ At **GSC**, I help clients build:
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -54,6 +73,15 @@ At **GSC**, I help clients build:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gscubess&theme=tokyo-night" alt="activity graph"/>
 </p>
+
+---
+
+### 📂 Featured Projects
+- 🌐 **E-Commerce Website** (React + Node.js + MongoDB)  
+- 🎨 **Portfolio Website** (Next.js + TailwindCSS)  
+- 🏫 **School Management System** (WordPress + Custom Plugins)  
+- 💼 **Business Landing Pages** (WordPress + Elementor)  
+- 📱 **Islamic Blog Platform** (MERN Stack)  
 
 ---
 
