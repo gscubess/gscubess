@@ -85,6 +85,24 @@ At **GSC**, I help clients build:
 
 ---
 
+### 🏅 Certifications & Awards
+- 🥇 **Front-End Developer Certification** – FreeCodeCamp  
+- 🥈 **WordPress Expert Level** – Udemy  
+- 🥉 **JavaScript Algorithms & DSA** – HackerRank  
+- 🏆 **Best Freelancer Award 2023** – Local Clients  
+- 🎖️ **Top Contributor** – Open Source Projects  
+
+---
+
+### 📚 Currently Learning Roadmap
+- 🚀 **Next.js** – Advanced frontend framework  
+- 🛡 **TypeScript** – Strongly typed JavaScript  
+- ☁ **Cloud & Deployment** – AWS, Vercel, Netlify  
+- 🔐 **Cybersecurity Basics** – For secure websites  
+- 🤝 **Freelancing & Client Management** – Scaling GSC  
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <!-- Islamic Pages -->
