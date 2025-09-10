@@ -1,59 +1,91 @@
-<h1 align="center">السلام عليكم ورحمة الله وبركاته</h1>
-<h3 align="center">Hi 👋, I'm Imran</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Imran</h1>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/gscubess">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Founder+of+GSC;Freelancer+%7C+WordPress+Developer;Frontend+Developer+%7C+React+Learner;Islamic+Content+Creator;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=IT+Solution+Engineer;WordPress+Developer;Frontend+Developer;Founder+of+GSC;Freelancer+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 📖 Islamic Quote
-> *"Indeed, with hardship comes ease."*  
-> *(Qur’an 94:6)*  
-
----
-
 ### 🌟 About Me
-- 🔭 I’m currently working on **15+ freelance projects worldwide**  
-- 🌱 Learning **MERN Stack & Advanced DSA**  
-- 👯 Collaborating with startups & NGOs for **Web Development**  
-- 💬 Ask me about **WordPress, React, Node.js, Tailwind CSS**  
+- 💼 IT Solution Engineer with **3+ years of experience** in IT operations & development.  
+- 🔭 Currently working at **Riti Wellness & Health Care Pvt. Ltd.** as **Senior IT Executive**.  
+- 🖥 Skilled in **HRMS, Payroll, Zoho Suite, Google Workspace, Office 365, Power BI, Automation (Apps Script)**.  
+- 🌱 Learning **MERN Stack & Advanced DSA**.  
+- 🌐 **Freelance WordPress Developer** – built **50+ websites** for businesses and startups.  
 - 📫 Reach me at: **gscubess@gmail.com**  
-- 🏆 Achievements:  
-  - Built **50+ WordPress websites** for clients  
-  - Completed **10+ MERN stack projects**  
-  - **500+ GitHub contributions** (private + public)  
-  - Trained **students in frontend basics**  
-- ⚡ Fun fact: *Code + Tea = Perfect Night* 😄  
+- ⚡ Fun fact: *Code + Tea = Perfect Night* ☕💻  
 
 ---
 
 ### 🏢 My Company - GSC
-🚀 I’m the **Founder of GSC**, where I work as a **Freelance Web Developer**.  
-At **GSC**, I help clients build:
-- 🌐 Professional **WordPress Websites**  
-- 🎨 Modern & Responsive **Frontend Development Projects**  
-- 💼 Business Websites, Portfolios, Blogs, and more  
+🚀 Founder of **GSC**, providing freelancing services in:  
+- 🌐 WordPress Website Development (Business, Portfolio, E-Commerce, Blogs)  
+- 🎨 Responsive Frontend Development (HTML, CSS, JS, React)  
+- 💼 IT Solutions & Consultancy for small businesses  
+- 📊 SEO, Content & Digital Media Management  
 
 👉 **Mission:** Helping businesses and individuals grow online with powerful, creative websites.  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+### 🛠️ Technical Skills
+- **Programming / Development:** HTML, CSS, JavaScript, React, Node.js, MongoDB, WordPress, Tailwind CSS  
+- **IT Solutions:** HRMS, Zoho Suite, Office 365, Google Workspace, EHR FOSS, Automation (Apps Script), Power BI  
+- **Creative / Digital:** Canva, SEO, Social Media, Website Optimization  
+- **System / IT:** IT Asset Management, Troubleshooting (Hardware/Software/Network), Linux, MacOS  
+
+---
+
+### 💼 Work Experience
+**Senior IT Executive – Riti Wellness & Health Care Pvt. Ltd.** (Mar 2024 – Present)  
+- Managed IT assets, HRMS, Payroll, and Zoho applications.  
+- Automated reports & tracking with Google Apps Script.  
+- Developed Power BI dashboards & performance scorecards.  
+- Provided remote IT support across 3 hospital branches.  
+- Handled website & digital platforms (WordPress + Canva).  
+
+**IT Executive – Riti Wellness & Health Care Pvt. Ltd.** (Jan 2023 – Feb 2024)  
+- Daily technical support (hardware, software, network).  
+- HRMS and Payroll backend support.  
+- WordPress website updates & custom scripts.  
+- Office 365 setup and support.  
+
+**Data Entry Operator – Tilak Nagar Allapur** (Jan 2022 – Dec 2022)  
+- Managed customer records in Excel.  
+- Team leadership & high work efficiency.  
+
+---
+
+### 📂 Featured Projects
+- 🌐 **College Space Website** – Full-stack project (Frontend + Backend).  
+- 🛒 **E-Commerce Website** – Full-stack shopping platform (Acmegrade Internship).  
+- 🧮 **Calculator Website** – Mini project using HTML, CSS, JS.  
+- 🎓 **OASIS Infobyte Project** – Frontend-only project internship.  
+- 🏥 **WordPress Projects:**  
+   - [Riti Eye Care Hospital](https://ritieyecare.com)  
+   - [EyeXperts](https://eyexperts.in)  
+   - [SpecxWala](https://specxwala.com)  
+
+---
+
+### 🏅 Certifications & Training
+- ✅ **Frontend + Backend Development** – Acmegrade (3 months, 2023)  
+- ✅ **WordPress Expert Level** – Udemy  
+- ✅ **JavaScript Algorithms & DSA** – HackerRank  
+- ✅ **IT Solutions & Asset Management** – On Job Training  
+- 🏆 **Best Freelancer Award 2023** – Local Clients  
+
+---
+
+### 📚 Currently Learning Roadmap
+- 🚀 Next.js (Advanced Frontend)  
+- 🛡 TypeScript  
+- ☁ Cloud Deployment (AWS, Vercel, Netlify)  
+- 🔐 Cybersecurity Basics  
+- 🤝 Freelancing & Client Management (Scaling GSC)  
 
 ---
 
@@ -76,30 +108,17 @@ At **GSC**, I help clients build:
 
 ---
 
-### 📂 Featured Projects
-- 🌐 **E-Commerce Website** (React + Node.js + MongoDB)  
-- 🎨 **Portfolio Website** (Next.js + TailwindCSS)  
-- 🏫 **School Management System** (WordPress + Custom Plugins)  
-- 💼 **Business Landing Pages** (WordPress + Elementor)  
-- 📱 **Islamic Blog Platform** (MERN Stack)  
+### 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gscubess&label=Profile%20Views&color=blueviolet&style=flat" alt="visitor counter"/>
+</p>
 
 ---
 
-### 🏅 Certifications & Awards
-- 🥇 **Front-End Developer Certification** – FreeCodeCamp  
-- 🥈 **WordPress Expert Level** – Udemy  
-- 🥉 **JavaScript Algorithms & DSA** – HackerRank  
-- 🏆 **Best Freelancer Award 2023** – Local Clients  
-- 🎖️ **Top Contributor** – Open Source Projects  
-
----
-
-### 📚 Currently Learning Roadmap
-- 🚀 **Next.js** – Advanced frontend framework  
-- 🛡 **TypeScript** – Strongly typed JavaScript  
-- ☁ **Cloud & Deployment** – AWS, Vercel, Netlify  
-- 🔐 **Cybersecurity Basics** – For secure websites  
-- 🤝 **Freelancing & Client Management** – Scaling GSC  
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/gscubess/gscubess/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
