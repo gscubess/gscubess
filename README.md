@@ -110,8 +110,9 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/gscubess/gscubess/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/gscubess/gscubess/output/snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
