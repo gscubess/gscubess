@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran
 
-<!--
-**gscubess/gscubess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | 🌐 Web Developer | 🚀 Learner  
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 Currently working on MERN stack projects  
+- 🌱 Learning DSA and Backend Development  
+- 🎯 Goal: To become a Full Stack Developer  
+- 📫 Reach me at [LinkedIn](#) | [Email](#)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- HTML | CSS | JavaScript | React  
+- Node.js | Express.js | MongoDB  
+
+---
+
+### GitHub Stats
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gscubess&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gscubess&layout=compact&theme=radical)
